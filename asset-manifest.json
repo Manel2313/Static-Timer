@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Static-Timer/static/css/main.b6f79c08.chunk.css",
+    "main.js": "/Static-Timer/static/js/main.f1c867cd.chunk.js",
+    "main.js.map": "/Static-Timer/static/js/main.f1c867cd.chunk.js.map",
+    "runtime~main.js": "/Static-Timer/static/js/runtime~main.eb7899a6.js",
+    "runtime~main.js.map": "/Static-Timer/static/js/runtime~main.eb7899a6.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/Static-Timer/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/Static-Timer/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/Static-Timer/index.html",
+    "precache-manifest.62e0a3a9f9aacc459cce17001fdedba2.js": "/Static-Timer/precache-manifest.62e0a3a9f9aacc459cce17001fdedba2.js",
+    "service-worker.js": "/Static-Timer/service-worker.js",
+    "static/css/main.b6f79c08.chunk.css.map": "/Static-Timer/static/css/main.b6f79c08.chunk.css.map"
+  }
+}

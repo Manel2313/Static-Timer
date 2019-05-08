@@ -1,0 +1,35 @@
+.timer{
+    display: flex;
+    justify-content: space-around;
+    padding: 10%;
+}
+.the-hours{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.hour{
+    font-size: 50px;
+}
+.the-minutes{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.minute{
+    font-size: 50px;
+}
+.the-seconds{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.second{
+    font-size: 50px;
+}
+.text{
+    font-size: 17px;
+}
+.seperate{
+    font-size: 50px;
+}
